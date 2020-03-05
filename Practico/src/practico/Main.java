@@ -8,7 +8,7 @@ public class Main {
 	static int[] ultimosEjercicios = { 6, 7, 8, 9, 10 };
 
 	public static void main(String[] args) {
-		System.out.println("Inicio\n\n\n");
+		System.out.println("Inicio\n\n");
 		
 		// here starts my menu
 		 Scanner in = new Scanner(System.in);
